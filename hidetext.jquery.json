@@ -17,10 +17,10 @@
         "email": "lhthanh.pro@gmail.com",
         "url": "http://devs.forumvi.com"
     },
-    "bugs": "https://github.com/#",
-    "homepage": "https://github.com/#",
-    "docs": "https://github.com/#",
-    "download": "https://github.com/#",
+    "bugs": "https://github.com/baivong/hidetext/issues",
+    "homepage": "https://github.com/baivong/hidetext",
+    "docs": "https://github.com/baivong/hidetext/blob/master/README.md",
+    "download": "https://github.com/baivong/hidetext/archive/master.zip",
     "licenses": [
         {
             "type": "MIT",

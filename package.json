@@ -13,16 +13,16 @@
     ],
     "repository": {
         "type": "git",
-        "url": "https://github.com/#"
+        "url": "https://github.com/baivong/hidetext.git"
     },
     "bugs": {
-        "url": "https://github.com/#"
+        "url": "https://github.com/baivong/hidetext/issues"
     },
     "author": {
         "name": "zzbaivong",
         "email": "lhthanh.pro@gmail.com",
         "url": "http://devs.forumvi.com"
     },
-    "homepage": "https://github.com/#",
+    "homepage": "https://github.com/baivong/hidetext",
     "license": "MIT"
 }

@@ -1,0 +1,33 @@
+{
+    "name": "hideText",
+    "title": "jQuery plugin hideText",
+    "description": "Hide words in the content and disable text selection.",
+    "keywords": [
+        "hideText",
+        "Hide words",
+        "disable text selection",
+        "anti-selection",
+        "jquery-plugin",
+        "jquery",
+        "plugins"
+    ],
+    "version": "0.1",
+    "author": {
+        "name": "zzbaivong",
+        "email": "lhthanh.pro@gmail.com",
+        "url": "http://devs.forumvi.com"
+    },
+    "bugs": "https://github.com/#",
+    "homepage": "https://github.com/#",
+    "docs": "https://github.com/#",
+    "download": "https://github.com/#",
+    "licenses": [
+        {
+            "type": "MIT",
+            "url": "http://opensource.org/licenses/MIT"
+        }
+    ],
+    "dependencies": {
+        "jquery": ">=1.4"
+    }
+}

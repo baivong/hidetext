@@ -1,4 +1,4 @@
-/*
+/*  @preserve
  *  Project: jQuery plugin hideText
  *  Description: Hide words in the content and disable text selection
  *  Author: Zzbaivong (devs.forumvi.com)
